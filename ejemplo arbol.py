@@ -6,7 +6,7 @@ class Arbol:
         #self.raiz = Raiz()
         #self.tronco = Tronco()
         #self.copa = Copa()
-
+#Holaaaa
     def __str__(self):
         return "Edad: " + str(self.edad) + " Copa del arbol: " + str(self.copa)
 
