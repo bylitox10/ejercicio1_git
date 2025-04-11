@@ -1,4 +1,4 @@
-class persona:
+class persona:#asdasdd
     def __init__(self,carlos):
         self.nombre = "Carlos"
         self.apellidos = "Lopez"
